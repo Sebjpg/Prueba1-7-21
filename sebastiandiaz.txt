@@ -1,0 +1,9 @@
+Respuesta: 
+
+Untraked: Es cuando un archivo es creado sin realizarle un (add) posteriormente o cuando es eliminado sin hacerle un commit
+
+Unmodified: Es cuando un archivo se le hace un commit o cuando clonas la última versión de un repositorio
+
+modified: Es un archivo que fue modificado sin haberle hecho un (add) posteriormente
+
+staged: Es un archivo modificado tras hacerle un (add)
